@@ -14,9 +14,10 @@ creating a ESP32 router scanner
 ## Link for documentation
 +  [Martin Ger code](https://github.com/martin-ger/esp32_nat_router)
  
- ![video walkthrough]<a href="http://www.youtube.com/watch?feature=player_embedded&v=41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr
++ ![video walkthrough]
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr
 " target="_blank"><img src="https://github.com/samlora704/ESP32-router-process-csn150/blob/main/Martin%20Ger%20youtube.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="240" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Steps I followed
 
