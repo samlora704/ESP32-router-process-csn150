@@ -14,7 +14,7 @@ creating a ESP32 router scanner
 ## Link for documentation
 +  [Martin Ger code](https://github.com/martin-ger/esp32_nat_router)
  
-+ $$$$ Walkthrough video
++ #### Walkthrough video
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr
