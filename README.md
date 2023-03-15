@@ -16,9 +16,7 @@ creating a ESP32 router scanner
 +  (https://www.youtube.com/watch?list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr&v=41Lymi6rXA8&embeds_euri=https%3A%2F%2Fbbhosted.cuny.edu%2F&feature=emb_logo)
  
  ![video walkthrough](https://github.com/samlora704/ESP32-router-process-csn150/blob/main/Martin%20Ger%20youtube.jpg)
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr
-" target="_blank"><img src="https://github.com/samlora704/ESP32-router-process-csn150/blob/main/Martin%20Ger%20youtube.jpg)/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 ## Steps I followed
 
