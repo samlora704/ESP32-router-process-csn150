@@ -12,7 +12,7 @@ creating a ESP32 router scanner
 + micro memory chip
 
 ## Link for documentation
-+  [Martin Ger code](https://github.com/martin-ger/esp32_nat_router)
++  [Martin Ger Program](https://github.com/martin-ger/esp32_nat_router)
  
 + #### Walkthrough video
 
