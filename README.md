@@ -12,7 +12,8 @@ create a ESP32
 + micro memory chip
 
 ## Link for documentation
-- Github https://github.com/martin-ger/esp32_nat_router
++  [Martin Ger video](https://github.com/martin-ger/esp32_nat_router)
+
 ## Steps I followed
 
 ## Problems
