@@ -13,7 +13,7 @@ creating a ESP32 Router Scanner
 
 ## Link for documentation
 +  [Martin Ger Program](https://github.com/martin-ger/esp32_nat_router)
-+ [Esp32 Flash Dowload Tool}(https://www.espressif.com/en/support/download/other-tools)
++ [Esp32 Flash Dowload Tool](https://www.espressif.com/en/support/download/other-tools)
  
 + #### Walkthrough video
 
@@ -24,6 +24,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Steps I followed
 + download folder from link above titled "link for  documentation"
++ extract all for both downloaded folders
++ go through "downloads"folder and look for "flash_Download_tool" open it 
++ double click on the flash_download_tool application ( a black screen will pop up dont be afraid)
++ when a small message window with pop up for chipset select "esp32c2"
++ loadmode select "USB"
++ change the "chiptype" to ## "ESP32" # (if that happens to be the chiptye you have purchased)
 
 
 
