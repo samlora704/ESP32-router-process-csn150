@@ -13,6 +13,7 @@ creating a ESP32 Router Scanner
 
 ## Link for documentation
 +  [Martin Ger Program](https://github.com/martin-ger/esp32_nat_router)
++ [Esp32 Flash Dowload Tool}(https://www.espressif.com/en/support/download/other-tools)
  
 + #### Walkthrough video
 
@@ -22,6 +23,8 @@ creating a ESP32 Router Scanner
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Steps I followed
++ download folder from link above titled "link for  documentation"
+
 
 
 ## Problems
