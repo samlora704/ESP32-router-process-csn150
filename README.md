@@ -34,12 +34,19 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 + hover over the "..." your file expolorer will open and look for the "esp32 nat router master" folder double click on the folder titled "ESP32", then the  "buildfolder"  
 + in this order you will select each file the builder folder -"bootloader.bin" "partition.bin" "firmware.bin"
 + on the right side of the "@" type for each on the .bin '1000' for the bootloader.bin, '8000' for the partitions.bin '10000'for firmware.bin
++ selecr the small box on the left next to the file path if done correctly the file path will turn green. 
 + leave all other selection as is 
 + plug in your ESP32 device 
 + for 'com' select the com that pops up (varies)
 + for 'BAUD' select 115200
-### + hold down the rest button whilst you select start once the device syncs with firmware download the program by pressing start again
-+ 
-
+# CRUCIAL!! hold down the rest button whilst you select start once the device syncs with firmware download the program by pressing start again if successful a green bar will start to load at the bottom of the ESP32 tool window
++ (turn off your automatic connection option) look for "ESP32 NAT Router" under your discoverable wifi. select the ESP32 wifi, you will get an error "no internet connection" 
++ in browser type # http://192.168.4.1  
++ you will know it was a success when the settings for the ESP32 router shows. when changing setting save your changes. 
++ once you change your ssid look for it in the discoverable networks and connect to it. 
++ to see if you have internet connectitivy go to browser and look up a website. 
+### Happy Connection
 
 ## Problems
++ pray for the best, dust yourself off and try again. if it doesnt work the first time hit erase on the download tool window, and start it again 
++ its a trial and error process. i didnt get it on my first second or third time (ha Ha). so good luck and may the odds forver be in your favor.
