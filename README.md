@@ -27,10 +27,19 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 + extract all for both downloaded folders
 + go through "downloads"folder and look for "flash_Download_tool" open it 
 + double click on the flash_download_tool application ( a black screen will pop up dont be afraid)
-+ when a small message window with pop up for chipset select "esp32c2"
++ when a small message window with pop up for chipset select "ESP32c2"
 + loadmode select "USB"
-+ change the "chiptype" to ## "ESP32" # (if that happens to be the chiptye you have purchased)
-
++ change the "chiptype" to ## "ESP32" # (if that happens to be the chiptype you have purchased) for some strange reason you the USB selection isnt there 
++ select ok
++ hover over the "..." your file expolorer will open and look for the "esp32 nat router master" folder double click on the folder titled "ESP32", then the  "buildfolder"  
++ in this order you will select each file the builder folder -"bootloader.bin" "partition.bin" "firmware.bin"
++ on the right side of the "@" type for each on the .bin '1000' for the bootloader.bin, '8000' for the partitions.bin '10000'for firmware.bin
++ leave all other selection as is 
++ plug in your ESP32 device 
++ for 'com' select the com that pops up (varies)
++ for 'BAUD' select 115200
+### + hold down the rest button whilst you select start once the device syncs with firmware download the program by pressing start again
++ 
 
 
 ## Problems
